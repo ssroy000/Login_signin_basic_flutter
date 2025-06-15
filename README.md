@@ -48,8 +48,7 @@ flutter run
 - `lib/register.dart` - Registration screen implementation
 
 ## Views
-<img src="![WhatsApp Image 2025-06-15 at 20 04 53_cfe06626](https://github.com/user-attachments/assets/78f27d2a-ad09-42f8-b3af-bd2f6fc24f0b)
-" width="300">
+<img src="![WhatsApp Image 2025-06-15 at 20 04 53_cfe06626](https://github.com/user-attachments/assets/78f27d2a-ad09-42f8-b3af-bd2f6fc24f0b)" width="300">
 <img src="![WhatsApp Image 2025-06-15 at 20 04 53_c06fc54a](https://github.com/user-attachments/assets/35575591-a55c-4b59-8475-93222e1c43de)" width="300">
    
 
