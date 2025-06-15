@@ -48,7 +48,7 @@ flutter run
 - `lib/register.dart` - Registration screen implementation
 
 ## Views
-| <img src="C:\Users\91973\OneDrive\ok_save_here\project photos\Pictures\flutter project\login.png"  width="300"/> | <img src="C:\Users\91973\OneDrive\ok_save_here\project photos\Pictures\flutter project\register.png" width="300"/>
+| <img src="![login](https://github.com/user-attachments/assets/4fe8ef08-4d1f-41ae-b413-d18333ccc05d)"  width="300"/> | <img src="![register](https://github.com/user-attachments/assets/b4b42bf5-8f94-445a-aae5-376076706ffb)" width="300"/>
    
 
 
