@@ -48,7 +48,7 @@ flutter run
 - `lib/register.dart` - Registration screen implementation
 
 ## Views
-![WhatsApp Image 2025-06-15 at 20 04 53_134dae02](https://github.com/user-attachments/assets/080807af-580a-4dfc-93b5-281ec8bbd694)  ![WhatsApp Image 2025-06-15 at 20 04 53_c06fc54a](https://github.com/user-attachments/assets/35575591-a55c-4b59-8475-93222e1c43de)
+![WhatsApp Image 2025-06-15 at 20 04 53_134dae02](https://github.com/user-attachments/assets/080807af-580a-4dfc-93b5-281ec8bbd694)width="300"  ![WhatsApp Image 2025-06-15 at 20 04 53_c06fc54a](https://github.com/user-attachments/assets/35575591-a55c-4b59-8475-93222e1c43de) width="300"
 
 
 
